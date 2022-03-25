@@ -1,0 +1,54 @@
+body{
+    font-family: Poppins, "sans-serif";
+    line-height: 1.7;
+    color: var(--body);
+    background-color: darkgoldenrod;
+    color: black;
+    
+}
+
+h1{
+    
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.centerDiv{
+    box-shadow: 0 20px 42px 42px rgba(245, 242, 242, 0.1); 
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+    height: 480px;
+    margin-left: 500px;
+    background-color: black;
+}
+.details{
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-top: 2rem;
+    font-size: 1.2rem;
+}
+input{
+    width: 60%;
+    height: 30px;
+    text-align: center;
+    box-shadow: 0 6px 20px rgb(23, 24, 24);
+    border-radius: 10px;
+    background-color: darkgoldenrod;
+}
+.imgchange{
+    margin-top: 20px;
+    border-radius: 10px;
+    height:250px;
+    width:50%;
+}
+.btn{
+    width: 30%;
+    height: 40px;
+    text-align: center;
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
